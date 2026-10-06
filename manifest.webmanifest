@@ -1,0 +1,15 @@
+{
+  "name": "Part Scanner",
+  "short_name": "Part Scanner",
+  "description": "Live camera scanner that reads part labels and barcodes and returns the company part number.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#15181b",
+  "theme_color": "#15181b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
